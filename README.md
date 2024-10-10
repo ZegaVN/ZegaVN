@@ -26,9 +26,3 @@ My journey in the IT field as a helpdesk/servicedesk analyst has led me to devel
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
    
 </div>
-
-## Certifications
-
-<div>
-
-</div>
